@@ -1,0 +1,2 @@
+Just read this line from the form.txt
+this is right from the append txt
